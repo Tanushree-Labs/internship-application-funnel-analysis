@@ -1,8 +1,8 @@
-# Contributions
+# Contributions 
 
 ## Project: Internship Application Funnel Analysis
 
-This project was developed collaboratively, with responsibilities shared across data analysis, visualization, interpretation of results, and project presentation.
+This project was developed collaboratively, with responsibilities shared across data analysis, visualization, interpretation of results, and project presentation. 
 
 ### Team Members and Responsibilities
 
@@ -33,4 +33,4 @@ Python, Pandas, Matplotlib, Jupyter Notebook, Git, and GitHub.
 
 ### Collaboration
 
-Both team members contributed to different aspects of the project. Data analysis and recommendation logic provided the analytical foundation, while chart development and visual presentation helped communicate the findings clearly. These components were brought together to create a structured and understandable internship application funnel analysis project.
+Both team members contributed to different aspects of the project. Data analysis and recommendation logic provided the analytical foundation, while chart development and visual presentation helped communicate the findings clearly. These components were brought together to create a structured and understandable internship application funnel analysis project. 
